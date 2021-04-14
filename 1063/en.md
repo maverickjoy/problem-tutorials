@@ -39,6 +39,9 @@ Example:
 end nodes hence ans for it is `2`.
 
 
+> Imp Fact : Low time is discovery time of nearest ancestor except parent.
+
+
 ## Time Complexity
 
 - Runtime for a single testcase for Tarjan's algorithm is linear `O(E+V)`
